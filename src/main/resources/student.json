@@ -1,0 +1,75 @@
+[ {
+  "id" : 1,
+  "name" : "kavya",
+  "age" : 78,
+  "mbNo" : 89898,
+  "addresses" : [ {
+    "pincode" : "0000",
+    "completeAddr" : "hjhjh",
+    "streeName" : "ghghg"
+  } ],
+  "books" : [ {
+    "bookCount" : 19,
+    "subject" : "java",
+    "bookId" : 1,
+    "students" : [ "kavya" ]
+  }, {
+    "bookCount" : 18,
+    "subject" : "c++",
+    "bookId" : 2,
+    "students" : [ "jkjk", "kavya" ]
+  }, {
+    "bookCount" : 0,
+    "subject" : "selenium",
+    "bookId" : 3,
+    "students" : [ "kavyakaka", "kavya" ]
+  } ]
+}, {
+  "id" : 2,
+  "name" : "jkjk",
+  "age" : 89,
+  "mbNo" : 98989898,
+  "addresses" : [ {
+    "pincode" : "8989",
+    "completeAddr" : "ghgh",
+    "streeName" : "hggh"
+  } ],
+  "books" : [ {
+    "bookCount" : 19,
+    "subject" : "c++",
+    "bookId" : 2,
+    "students" : [ "jkjk" ]
+  } ]
+}, {
+  "id" : 3,
+  "name" : "kavyakaka",
+  "age" : 8,
+  "mbNo" : 76767676,
+  "addresses" : [ {
+    "pincode" : "090909",
+    "completeAddr" : "hghghjg",
+    "streeName" : "hghfghgf"
+  } ],
+  "books" : [ {
+    "bookCount" : 1,
+    "subject" : "selenium",
+    "bookId" : 3,
+    "students" : [ "kavyakaka" ]
+  } ]
+}, {
+  "id" : 4,
+  "name" : "kavya1",
+  "age" : 78,
+  "mbNo" : 89898,
+  "addresses" : [ {
+    "pincode" : "098898",
+    "completeAddr" : "hjhjh",
+    "streeName" : "hjhj"
+  } ],
+  "books" : [ {
+    "bookCount" : 17,
+    "subject" : "c++",
+    "bookId" : 2,
+    "students" : [ "jkjk", "kavya", "kavya1" ]
+  } ]
+} ]
